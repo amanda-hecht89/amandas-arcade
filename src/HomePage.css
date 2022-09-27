@@ -8,12 +8,30 @@
 
 .body {
     border: 2px solid blue;
+    padding: 10px;
+    margin-top: 10px;
 }
 
 .footer {
     border: 2px solid green;
+    margin-top: 10px;
 }
 
 .picture {
     border: 2px solid orangered;
+}
+
+.fruitCrush {
+    border: 2px solid purple;
+    margin-bottom: 4px;
+}
+
+.minesweeper {
+    border: 2px solid purple;
+}
+
+.games {
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
 }
