@@ -1,0 +1,19 @@
+.homepage {
+    border: 12px solid black;
+}
+
+.header {
+    border: 2px solid red;
+}
+
+.body {
+    border: 2px solid blue;
+}
+
+.footer {
+    border: 2px solid green;
+}
+
+.picture {
+    border: 2px solid orangered;
+}
