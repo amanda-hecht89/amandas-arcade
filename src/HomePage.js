@@ -18,27 +18,27 @@ export default function HomePage() {
           <div className='soloGame'>
             <h2>Minesweeper</h2>
             <h4>Description</h4>
-            <a href="https://amandacrush.netlify.app/" target="/blank"><img src='/images/fruitCrush.png' className="picture" /></a>
+            <a href="https://amandasminesweeper.netlify.app/" target="/blank"><img src='/images/minesweeper.png' className="picture" /></a>
           </div>
           <div className='soloGame'>
             <h2>Tetris</h2>
-            <h4>Description</h4>
-            <a href="https://amandacrush.netlify.app/" target="/blank"><img src='/images/fruitCrush.png' className="picture" /></a>
+            <h4>UNDER CONSTRUCTION</h4>
+            <a href="" target="/blank"><img src='/images/underCon.png' className="picture" /></a>
           </div>
           <div className='soloGame'>
             <h2>Break Out</h2>
             <h4>Description</h4>
-            <a href="https://amandacrush.netlify.app/" target="/blank"><img src='/images/fruitCrush.png' className="picture" /></a>
+            <a href="https://amandasbreakoutgame.netlify.app/" target="/blank"><img src='/images/breakOut.png' className="picture" /></a>
           </div>
           <div className='soloGame'>
             <h2>Matching Game</h2>
-            <h4>Description</h4>
-            <a href="https://amandacrush.netlify.app/" target="/blank"><img src='/images/fruitCrush.png' className="picture" /></a>
+            <h4>UNDER CONSTRUCTION</h4>
+            <a href="" target="/blank"><img src='/images/underCon.png' className="picture" /></a>
           </div>
           <div className='soloGame'>
             <h2>Shell Game</h2>
-            <h4>Description</h4>
-            <a href="https://amandacrush.netlify.app/" target="/blank"><img src='/images/fruitCrush.png' className="picture" /></a>
+            <h4>UNDER CONSTRUCTION</h4>
+            <a href="" target="/blank"><img src='/images/underCon.png' className="picture" /></a>
           </div>
         </div>
       </div>
