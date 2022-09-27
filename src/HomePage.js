@@ -8,27 +8,22 @@ export default function HomePage() {
         <h1>WELCOME TO AMANDAS ARCADE</h1>
       </div>
       <div className='body'>
+        <h1>Please Enjoy My Games</h1>
         <div className='games'>
           <div className='soloGame'>
             <h2>Fruit Crush</h2>
             <h4>Description</h4>
-            <div className='link'>
-              <a href="https://amandacrush.netlify.app/" target="/blank"><img src='/images/fruitCrush.png' className="picture" /></a>
-            </div>
+            <a href="https://amandacrush.netlify.app/" target="/blank"><img src='/images/fruitCrush.png' className="picture" /></a>
           </div>
           <div className='soloGame'>
             <h2>Minesweeper</h2>
             <h4>Description</h4>
-            <div className='link'>
-              <a href="https://amandacrush.netlify.app/" target="/blank"><img src='/images/fruitCrush.png' className="picture" /></a>
-            </div>
+            <a href="https://amandacrush.netlify.app/" target="/blank"><img src='/images/fruitCrush.png' className="picture" /></a>
           </div>
           <div className='soloGame'>
             <h2>Tetris</h2>
             <h4>Description</h4>
-            <div className='link'>
-              <a href="https://amandacrush.netlify.app/" target="/blank"><img src='/images/fruitCrush.png' className="picture" /></a>
-            </div>
+            <a href="https://amandacrush.netlify.app/" target="/blank"><img src='/images/fruitCrush.png' className="picture" /></a>
           </div>
         </div>
       </div>
