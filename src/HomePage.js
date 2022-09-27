@@ -32,13 +32,13 @@ export default function HomePage() {
           </div>
           <div className='soloGame'>
             <h2>Matching Game</h2>
-            <h4>UNDER CONSTRUCTION</h4>
-            <a href="" target="/blank"><img src='/images/underCon.png' className="picture" /></a>
+            <h4>Description</h4>
+            <a href="https://amandamatchgame.netlify.app/" target="/blank"><img src='/images/match.png' className="picture" /></a>
           </div>
           <div className='soloGame'>
             <h2>Shell Game</h2>
-            <h4>UNDER CONSTRUCTION</h4>
-            <a href="" target="/blank"><img src='/images/underCon.png' className="picture" /></a>
+            <h4>Description</h4>
+            <a href="https://coloradoshellgame.netlify.app/" target="/blank"><img src='/images/shellGame.png' className="picture" /></a>
           </div>
         </div>
       </div>
