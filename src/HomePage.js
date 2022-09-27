@@ -25,6 +25,21 @@ export default function HomePage() {
             <h4>Description</h4>
             <a href="https://amandacrush.netlify.app/" target="/blank"><img src='/images/fruitCrush.png' className="picture" /></a>
           </div>
+          <div className='soloGame'>
+            <h2>Break Out</h2>
+            <h4>Description</h4>
+            <a href="https://amandacrush.netlify.app/" target="/blank"><img src='/images/fruitCrush.png' className="picture" /></a>
+          </div>
+          <div className='soloGame'>
+            <h2>Matching Game</h2>
+            <h4>Description</h4>
+            <a href="https://amandacrush.netlify.app/" target="/blank"><img src='/images/fruitCrush.png' className="picture" /></a>
+          </div>
+          <div className='soloGame'>
+            <h2>Shell Game</h2>
+            <h4>Description</h4>
+            <a href="https://amandacrush.netlify.app/" target="/blank"><img src='/images/fruitCrush.png' className="picture" /></a>
+          </div>
         </div>
       </div>
       <div className='footer'>
