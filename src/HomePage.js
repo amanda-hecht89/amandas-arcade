@@ -9,15 +9,26 @@ export default function HomePage() {
       </div>
       <div className='body'>
         <div className='games'>
-          <div className='fruitCrush'>
+          <div className='soloGame'>
             <h2>Fruit Crush</h2>
-            <h4>Match 3 or 4 game, like candy crush, but with fruit!</h4>
-            <a href="https://amandacrush.netlify.app/" target="/blank"><img src='/images/fruitCrush.png' className="picture" /></a>
+            <h4>Description</h4>
+            <div className='link'>
+              <a href="https://amandacrush.netlify.app/" target="/blank"><img src='/images/fruitCrush.png' className="picture" /></a>
+            </div>
           </div>
-          <div className='minesweeper'>
+          <div className='soloGame'>
             <h2>Minesweeper</h2>
             <h4>Description</h4>
-            <a href="https://amandacrush.netlify.app/" target="/blank"><img src='/images/fruitCrush.png' className="picture" /></a>
+            <div className='link'>
+              <a href="https://amandacrush.netlify.app/" target="/blank"><img src='/images/fruitCrush.png' className="picture" /></a>
+            </div>
+          </div>
+          <div className='soloGame'>
+            <h2>Tetris</h2>
+            <h4>Description</h4>
+            <div className='link'>
+              <a href="https://amandacrush.netlify.app/" target="/blank"><img src='/images/fruitCrush.png' className="picture" /></a>
+            </div>
           </div>
         </div>
       </div>
