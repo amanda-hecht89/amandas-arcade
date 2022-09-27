@@ -42,3 +42,6 @@
     display: flex;
     flex-wrap: wrap;
 }
+a :hover {
+    opacity: .65;
+}
