@@ -40,6 +40,11 @@ export default function HomePage() {
             <h4>Description</h4>
             <a href="https://coloradoshellgame.netlify.app/" target="/blank"><img src='/images/shellGame.png' className="picture" /></a>
           </div>
+          <div className='soloGame'>
+            <h2>Space Invaders</h2>
+            <h4>UNDER CONSTRUCTION</h4>
+            <a href="" target="/blank"><img src='/images/space.png' className="picture" /></a>
+          </div>
         </div>
       </div>
       <div className='footer'>
