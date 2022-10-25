@@ -16,17 +16,17 @@ export default function HomePage() {
             <a href="https://amandacrush.netlify.app/" target="/blank"><img src='/images/fruitCrush.png' className="picture" /></a>
           </div>
           <div className='soloGame'>
-            <h2>Minesweeper</h2>
+            <h2>NOT Minesweeper*</h2>
             <h4>Description</h4>
             <a href="https://amandasminesweeper.netlify.app/" target="/blank"><img src='/images/minesweeper.png' className="picture" /></a>
           </div>
           <div className='soloGame'>
-            <h2>Tetris</h2>
+            <h2>NOT Tetris*</h2>
             <h4>UNDER CONSTRUCTION</h4>
             <a href="" target="/blank"><img src='/images/underCon.png' className="picture" /></a>
           </div>
           <div className='soloGame'>
-            <h2>Break Out</h2>
+            <h2>NOT Break Out*</h2>
             <h4>Description</h4>
             <a href="https://amandasbreakoutgame.netlify.app/" target="/blank"><img src='/images/breakOut.png' className="picture" /></a>
           </div>
@@ -41,9 +41,14 @@ export default function HomePage() {
             <a href="https://coloradoshellgame.netlify.app/" target="/blank"><img src='/images/shellGame.png' className="picture" /></a>
           </div>
           <div className='soloGame'>
-            <h2>Space Invaders</h2>
+            <h2> NOT Space Invaders*</h2>
             <h4>UNDER CONSTRUCTION</h4>
-            <a href="" target="/blank"><img src='/images/space.png' className="picture" /></a>
+            <a href="" target="/blank"><img src='/images/underCon.png' className="picture" /></a>
+          </div>
+          <div className='soloGame'>
+            <h2> NOT Pacman*</h2>
+            <h4>UNDER CONSTRUCTION</h4>
+            <a href="" target="/blank"><img src='/images/underCon.png' className="picture" /></a>
           </div>
         </div>
       </div>
