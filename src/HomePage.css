@@ -1,11 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
 
-.homepage {
-    border: 12px solid black;
-}
-
 .header {
-    border: 2px solid red;
+
     display: flex;
     justify-content: center;
     font-family: 'Josefin Sans', sans-serif;
@@ -23,14 +19,12 @@ h2 {
 }
 
 .body {
-    border: 2px solid blue;
     padding: 10px;
     margin-top: 10px;
     font-family: 'Josefin Sans', sans-serif;
 }
 
 .footer {
-    border: 2px solid green;
     margin-top: 10px;
     display: flex;
     justify-content: center;
@@ -59,7 +53,6 @@ box-shadow: 20px 15px 9px 10px rgba(0,0,0,0.5);
     display: flex;
     flex-direction: row;
     padding: 5px;
-    border: 5px solid gold;
     display: flex;
     flex-wrap: wrap;
 }
