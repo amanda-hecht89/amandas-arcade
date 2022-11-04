@@ -5,10 +5,9 @@ export default function HomePage() {
   return (
     <div className='homePage'>
       <div className='header'>
-        <h1>WELCOME TO AMANDAS ARCADE</h1>
+        <h1>AMANDAS ARCADE</h1>
       </div>
       <div className='body'>
-        <h1>Please Enjoy My Games</h1>
         <div className='games'>
           <div className='soloGame'>
             <h2>Fruit Crush</h2>
