@@ -1,44 +1,58 @@
-.homepage {
-    border: 12px solid black;
-}
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
 
 .header {
-    border: 2px solid red;
+
+    display: flex;
+    justify-content: center;
+    font-family: 'Josefin Sans', sans-serif;
+
+}
+
+h2 {
+    font-family: 'Josefin Sans', sans-serif;
+    color: transparent;
+    background: #666666;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    text-shadow: 0px 3px 3px rgba(255,255,255,0.5);
 }
 
 .body {
-    border: 2px solid blue;
     padding: 10px;
     margin-top: 10px;
+    font-family: 'Josefin Sans', sans-serif;
 }
 
 .footer {
-    border: 2px solid green;
     margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    font-family: 'Josefin Sans', sans-serif;
 }
 
 .picture {
-    border: 2px solid orangered;
     height: 100px;
     margin-bottom: 3px;
     
 }
 
 .soloGame {
-    border: 2px solid rgb(214, 101, 214);
-    margin: 4px;
+    background-color: rgb(238, 233, 226);
+    margin: 25px;
     width: 20%;
     display: flex;
     justify-content: center;
     flex-direction: column;
     align-items: center;
+    -webkit-box-shadow: 20px 15px 9px 10px rgba(0,0,0,0.5); 
+box-shadow: 20px 15px 9px 10px rgba(0,0,0,0.5);
 }
 
 .games {
     display: flex;
     flex-direction: row;
     padding: 5px;
-    border: 5px solid gold;
     display: flex;
     flex-wrap: wrap;
 }
