@@ -2,10 +2,8 @@ import {
   BrowserRouter as Router,
   Switch,
   Route,
-  Link,
 } from 'react-router-dom';
 import HomePage from './HomePage';
-import Credits from './Credits';
 
 function App() {
   return (
@@ -13,16 +11,11 @@ function App() {
       <div className='app'>
 
         <nav className="nav-header">
-          <Link className="nav-items" to="/">Home</Link> 
-          <Link className="nav-items" to="/credits">About</Link>
+          <img src='/Images/symbol3.png 'height='160' width='auto'/> 
         </nav>
-
         <Switch>
           <Route exact path="/">
             <HomePage />
-          </Route>
-          <Route exact path="/credits">
-            <Credits />
           </Route>
         </Switch>
       </div>

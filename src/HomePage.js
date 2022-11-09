@@ -5,7 +5,7 @@ export default function HomePage() {
   return (
     <div className='homePage'>
       <div className='header'>
-        <h1>AMANDAS ARCADE</h1>
+        <h1>ARCADE</h1>
       </div>
       <div className='body'>
         <div className='games'>
