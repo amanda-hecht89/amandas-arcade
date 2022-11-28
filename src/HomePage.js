@@ -40,7 +40,7 @@ export default function HomePage() {
             <a href="https://coloradoshellgame.netlify.app/" target="/blank"><img src='/images/shellGame.png' className="picture" /></a>
           </div>
           <div className='soloGame'>
-            <h2> NOT Space Invaders*</h2>
+            <h2> Zombie Invaders*</h2>
             <h4>Classic Space Invaders with a zombie twist. Use arrow keys to move right and left and press up to shoot!</h4>
             <a href="https://zombieinvaders.netlify.app/" target="/blank"><img src='/images/invaders.png' className="picture" /></a>
           </div>
