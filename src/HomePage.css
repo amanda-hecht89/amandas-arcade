@@ -56,7 +56,7 @@ h4 {
     flex-direction: column;
     align-items: center;
     -webkit-box-shadow: 20px 15px 9px 10px rgba(203, 35, 35, 0.5); 
-box-shadow: 20px 15px 9px 10px #e698398a;
+box-shadow: 20px 15px 9px 10px #e6983980;
 }
 
 .games {
@@ -68,4 +68,11 @@ box-shadow: 20px 15px 9px 10px #e698398a;
 }
 a :hover {
     opacity: .65;
+}
+
+.github {
+    padding-top: 10px;
+    font-size: 12px;
+    color: #268FA6;
+    text-decoration: none;
 }
