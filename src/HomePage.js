@@ -28,7 +28,7 @@ export default function HomePage() {
             {/* <a href='https://github.com/amanda-hecht89/tetris' className='github'>GITHUB</a> */}
           </div>
           <div className='soloGame'>
-            <h2>Break THe Tiles</h2>
+            <h2>Break The Tiles</h2>
             <h4>Use your left and right arrow keys to get the ball to remove all the blocks!</h4>
             <a href="https://amandasbreakoutgame.netlify.app/" target="/blank"><img src='/images/breakOut.png' className="picture" /></a>
             <a href='https://github.com/amanda-hecht89/breakout' className='github'>GITHUB</a>
