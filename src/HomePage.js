@@ -58,10 +58,10 @@ export default function HomePage() {
             {/* <a href='https://github.com/amanda-hecht89/pacman' className='github'>GITHUB</a> */}
           </div>
           <div className='soloGame'>
-            <h2>Ping</h2>
-            <h4>Move up and down to keep the ball on the playing square</h4>
-            <a href="" target="/blank"><img src='/images/underCon.png' className="picture" /></a>
-            {/* <a href='https://github.com/amanda-hecht89/Pong' className='github'>GITHUB</a> */}
+            <h2>BlackJack</h2>
+            <h4>Play against the computer to get closer to the total 21. Aces are 11 the auto change to 1</h4>
+            <a href="https://amandasblackjack.netlify.app/" target="/blank"><img src='/images/blackjack.png' className="picture" /></a>
+            <a href='https://github.com/amanda-hecht89/blackjack' className='github'>GITHUB</a>
           </div>
         </div>
       </div>
