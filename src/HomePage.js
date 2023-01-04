@@ -24,8 +24,8 @@ export default function HomePage() {
           <div className='soloGame'>
             <h2>Tetris</h2>
             <h4>Use the tiles to fill out the horizonal space to remove it. Dont let the tiles hit the top!</h4>
-            <a href="" target="/blank"><img src='/images/underCon.png' className="picture" /></a>
-            {/* <a href='https://github.com/amanda-hecht89/tetris' className='github'>GITHUB</a> */}
+            <a href="https://amandamadeatetris.netlify.app/" target="/blank"><img src='/images/tetris.png' className="picture" /></a>
+            <a href='https://github.com/amanda-hecht89/tetris' className='github'>GITHUB</a>
           </div>
           <div className='soloGame'>
             <h2>Break The Tiles</h2>
@@ -54,8 +54,8 @@ export default function HomePage() {
           <div className='soloGame'>
             <h2>PacPerson</h2>
             <h4>Move around the board to try to eat all the pellets. Dont let the ghosts catch you!!!</h4>
-            <a href="" target="/blank"><img src='/images/underCon.png' className="picture" /></a>
-            {/* <a href='https://github.com/amanda-hecht89/pacman' className='github'>GITHUB</a> */}
+            <a href="https://amandaman.netlify.app/" target="/blank"><img src='/images/pacman.png' className="picture" /></a>
+            <a href='https://github.com/amanda-hecht89/pacman' className='github'>GITHUB</a>
           </div>
           <div className='soloGame'>
             <h2>BlackJack</h2>
