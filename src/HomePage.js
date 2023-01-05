@@ -23,7 +23,7 @@ export default function HomePage() {
           </div>
           <div className='soloGame'>
             <h2>Tetris</h2>
-            <h4>Use the tiles to fill out the horizonal space to remove it. Dont let the tiles hit the top!</h4>
+            <h4>Use the arrow keys to move the tiles to fill out the horizonal space to remove it. Dont let the tiles hit the top!</h4>
             <a href="https://amandamadeatetris.netlify.app/" target="/blank"><img src='/images/tetris.png' className="picture" /></a>
             <a href='https://github.com/amanda-hecht89/tetris' className='github'>GITHUB</a>
           </div>
@@ -48,18 +48,18 @@ export default function HomePage() {
           <div className='soloGame'>
             <h2>Zombie Invaders</h2>
             <h4>Classic Space Invaders with a zombie twist. Use arrow keys to move right and left and press up to shoot!</h4>
-            <a href="https://zombieinvaders.netlify.app/" target="/blank"><img src='/images/invaders.png' className="picture" /></a>
+            <a href="https://zombieinvaders.netlify.app/" target="/blank"><img src='/images/zombie1.png' className="picture" /></a>
             <a href='https://github.com/amanda-hecht89/space-invaders' className='github'>GITHUB</a>
           </div>
           <div className='soloGame'>
             <h2>PacPerson</h2>
-            <h4>Move around the board to try to eat all the pellets. Dont let the ghosts catch you!!!</h4>
+            <h4>Move around the board with your arrow keys to try to eat all the pellets. Dont let the ghosts catch you!!!</h4>
             <a href="https://amandaman.netlify.app/" target="/blank"><img src='/images/pacman.png' className="picture" /></a>
             <a href='https://github.com/amanda-hecht89/pacman' className='github'>GITHUB</a>
           </div>
           <div className='soloGame'>
             <h2>BlackJack</h2>
-            <h4>Play against the computer to get closer to the total 21. Aces are 11 the auto change to 1</h4>
+            <h4>Play against the computer to get closer to the total 21. Aces are 11 then auto change to 1</h4>
             <a href="https://amandasblackjack.netlify.app/" target="/blank"><img src='/images/blackjack.png' className="picture" /></a>
             <a href='https://github.com/amanda-hecht89/blackjack' className='github'>GITHUB</a>
           </div>
