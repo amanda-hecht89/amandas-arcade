@@ -48,7 +48,7 @@ export default function HomePage() {
           <div className='soloGame'>
             <h2>Zombie Invaders</h2>
             <h4>Classic Space Invaders with a zombie twist. Use arrow keys to move right and left and press up to shoot!</h4>
-            <a href="https://zombieinvaders.netlify.app/" target="/blank"><img src='/images/invaders.png' className="picture" /></a>
+            <a href="https://zombieinvaders.netlify.app/" target="/blank"><img src='/images/zombie1.png' className="picture" /></a>
             <a href='https://github.com/amanda-hecht89/space-invaders' className='github'>GITHUB</a>
           </div>
           <div className='soloGame'>
